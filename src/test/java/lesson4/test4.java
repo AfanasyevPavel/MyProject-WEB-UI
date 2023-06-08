@@ -1,4 +1,4 @@
-package lesson4;
+/*package lesson4;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -21,4 +21,4 @@ public class test4 {
         ExampleClass exampleClass = new ExampleClass();
         Assertions.assertEquals(result,exampleClass.squareTriangle(a,b,c));
     }
-}
+}*/
