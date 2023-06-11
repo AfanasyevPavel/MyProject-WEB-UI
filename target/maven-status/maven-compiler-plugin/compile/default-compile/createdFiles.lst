@@ -1,8 +1,11 @@
+lesson6\pages\HomePage.class
 org\example\lesson4\MyException.class
 org\example\lesson3\Main.class
 org\example\lesson3\SearchQuite.class
 org\example\lesson3\Login.class
+lesson6\panels\AuthPanel.class
 org\example\App.class
 org\example\lesson3\ChangeName.class
 org\example\lesson4\ExampleClass.class
+org\example\lesson7\MyWebDriverEventListener.class
 org\example\lesson3\AddToBasket.class

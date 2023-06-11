@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 
 public class ChangeName extends AbstractTest{
 
@@ -53,6 +52,6 @@ public class ChangeName extends AbstractTest{
 
         Thread.sleep(1000);
 
-        //   Assertions.assertDoesNotThrow(() -> getDriver().findElement(By.xpath("/html/body/div[1]/div/header/div/div[3]/div[2]/div[3]/button")));
+        Assertions.assertDoesNotThrow(() -> getDriver().findElement(By.xpath("/html/body/div[1]/div/header/div/div[3]/div[2]/div[3]/button")));
     }
 }
